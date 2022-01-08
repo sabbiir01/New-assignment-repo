@@ -11,7 +11,7 @@ h5{
 .orng-clr{
     color: #0c86b6;
 }
-section{
+.hero-section{
   display: flex;  
 }
 .width-half{
@@ -34,10 +34,24 @@ margin-top: -20px;
     color: white;
     border-radius: 5px;
 }
-.my-mission{
+.my-mission-area{
     text-align: center;
+    margin: 5%;
 }
-.color-2022{
-    color: #0c86b6;
-
+.icon-text{
+    display:flex
+}
+.mission{
+    width: 25%;
+    
+}
+.vission{
+    width: 25%;
+}
+.goal{
+    width: 25%;
+}
+.mission-icon{
+    width: 40%;
+    
 }
