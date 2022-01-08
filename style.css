@@ -45,19 +45,23 @@ margin-top: -20px;
 }
 .mission{
     background-color: wheat;
+    text-align: left;
 }
 .vission{
     background-color: wheat;
+    text-align: left;
+    
 }
 .goal{
-    background-color: wheat;   
+    background-color: wheat;
+    text-align: left;   
 } 
 .mission-icon{
     width: 40%;
 }
 .box-info{
-    width: 25%;
-    padding: 10px;
+    width: 30%;
+    padding: 10px 3%;
     margin: 2%;
     border-radius: 25px;
 }
