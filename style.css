@@ -1,0 +1,43 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h5{
+    margin-top: 70px;
+    color: rgba(0, 0, 0, 0.671);
+}
+.orng-clr{
+    color: #0c86b6;
+}
+section{
+  display: flex;  
+}
+.width-half{
+    width: 50%;
+    margin-top: 5%;
+    padding-left: 5%;
+}
+.half-width img{
+width: 80%;
+margin-top: -20px;
+}
+.box-shadow{
+    border-left: #dfbea2 5px solid;
+    padding-left: 10px
+}
+.link-btn{
+    text-decoration: none;
+    background-image: linear-gradient(#334A82, #0C86B6);
+    padding: 10px 30px;
+    color: white;
+    border-radius: 5px;
+}
+.my-mission{
+    text-align: center;
+}
+.color-2022{
+    color: #0c86b6;
+
+}
