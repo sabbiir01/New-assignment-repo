@@ -39,19 +39,25 @@ margin-top: -20px;
     margin: 5%;
 }
 .icon-text{
-    display:flex
+    display:flex;
+    align-items: center;
+    
 }
 .mission{
-    width: 25%;
-    
+    background-color: wheat;
 }
 .vission{
-    width: 25%;
+    background-color: wheat;
 }
 .goal{
-    width: 25%;
-}
+    background-color: wheat;   
+} 
 .mission-icon{
     width: 40%;
-    
+}
+.box-info{
+    width: 25%;
+    padding: 10px;
+    margin: 2%;
+    border-radius: 25px;
 }
