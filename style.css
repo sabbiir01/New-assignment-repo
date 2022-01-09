@@ -3,7 +3,13 @@ body{
     margin: 0;
 }
 h1{
-    font-size: 50px;
+    font-family: poppins;
+    font-size: 48px;
+    color: #303030;
+    font-size: bold;
+}
+#clr-chng{
+
 }
 h5{
     margin-top: 70px;
@@ -45,16 +51,16 @@ margin-top: -20px;
     
 }
 .mission{
-    background-color: wheat;
+    background-color: #EDF5F6;
     text-align: left;
 }
 .vission{
-    background-color: wheat;
+    background-color:#FFEEEE ;
     text-align: left;
     
 }
 .goal{
-    background-color: wheat;
+    background-color: #FFF4D6;
     text-align: left;   
 } 
 .mission-icon{
@@ -91,8 +97,17 @@ margin-top: -20px;
 .img-text4{
     width: 30%;
 }
-.para-small{
-    font-weight: ;
+.hmission{
+    background-color: #FFF4D6;
+    text-align: center;
+}
+.hvission{
+    background-color: #FFEEEE;
+    text-align: center;
+}
+.hgoal{
+    background-color: #EDF5F6;
+
 }
 footer{
     text-align: center;
